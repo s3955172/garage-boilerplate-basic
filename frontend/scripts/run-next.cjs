@@ -1,4 +1,5 @@
 'use strict'
+/* eslint-disable @typescript-eslint/no-require-imports */
 /**
  * Runs the Next.js CLI without relying on node_modules/.bin (fixes Windows + pnpm
  * when `next` / `pnpm exec next` is not on PATH).
